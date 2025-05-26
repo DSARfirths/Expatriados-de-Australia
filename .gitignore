@@ -3,3 +3,5 @@ __pycache__/
 expatriates_project/
 *.log
 expat_au_hk.csv
+*.docx
+*.xlsx
