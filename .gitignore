@@ -1,4 +1,6 @@
 __pycache__/
 *.py[cod]
+expatriates_project/
+*.log
 expat_au_hk.csv
 Trabajo a postular.docx/
